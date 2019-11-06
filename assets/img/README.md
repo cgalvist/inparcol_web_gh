@@ -7,7 +7,6 @@ Instalar Image Magick:
 ```shell
 sudo apt-get update
 sudo apt-get install imagemagick
-mogrify -format jpg *.png
 ```
 
 Y ejecutar la siguiente orden:

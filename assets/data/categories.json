@@ -1,4 +1,18 @@
 [
-  {"id":1,"name":"Aluminio"},
-  {"id":2,"name":"Hierro"}
+  {"id":0,"name":"Otros"},
+  {"id":1,"name":"Mazda"},
+  {"id":2,"name":"Daewoo"},
+  {"id":3,"name":"Fiat"},
+  {"id":4,"name":"Spark"},
+  {"id":5,"name":"Renault"},
+  {"id":6,"name":"Ford"},
+  {"id":7,"name":"Jeep"},
+  {"id":8,"name":"Chevrolet"},
+  {"id":9,"name":"Mercedes"},
+  {"id":10,"name":"Hyundai"},
+  {"id":11,"name":"Dodge"},
+  {"id":12,"name":"Suzuki"},
+  {"id":13,"name":"Kia"},
+  {"id":14,"name":"Volswagen"},
+  {"id":15,"name":"Buses"}
 ] 
