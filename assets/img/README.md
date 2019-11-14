@@ -1,21 +1,19 @@
 # Comandos útiles
 
-## Convertir muchas imágenes PNG a JPG
-
-Instalar Image Magick:
+Para ejecutar algunos comandos es necesario instalar Image Magick:
 
 ```shell
 sudo apt-get update
 sudo apt-get install imagemagick
 ```
 
-Y ejecutar la siguiente orden:
+## Convertir varias imágenes PNG a JPG
 
 ```shell
 mogrify -format jpg *.png
 ```
 
-## Renombrar muchas imágenes JPG a una lista numerada
+## Renombrar varias imágenes JPG a una lista numerada
 
 ```shell
 n=1; for f in *.jpg; do mv "$f" "$((n++)).jpg"; done
